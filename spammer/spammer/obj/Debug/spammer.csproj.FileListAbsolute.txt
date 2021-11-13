@@ -1,0 +1,10 @@
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\bin\Debug\spammer.exe.config
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\bin\Debug\spammer.exe
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\bin\Debug\spammer.pdb
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.csprojAssemblyReference.cache
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.Form1.resources
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.Properties.Resources.resources
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.csproj.GenerateResource.cache
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.csproj.CoreCompileInputs.cache
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.exe
+C:\Users\ZSOMBI-PC\Desktop\hack\kód tesztelgetés\spammer\spammer\spammer\obj\Debug\spammer.pdb
